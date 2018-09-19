@@ -1,0 +1,42 @@
+baseURL = "tek1consulting.github.io"
+languageCode = "en-us"
+#title = "TEK1 Consulting"
+
+###
+theme = "hugo-base-theme"
+
+#baseurl = "https://www.example.com"
+#languageCode = "fr-fr"
+title = "TEK1 Consulting"
+
+[params]
+#  description = "We <3 technology"
+  mainIcon = "/img/tek1_branding_003_final_1019x1019px_20180919--2230.png"
+
+[[params.social]]
+    title = "twitter"
+    url = "https://twitter.com/SBootstrap"
+
+[[params.social]]
+    title = "github"
+    url = "https://github.com/IronSummitMedia/startbootstrap"
+
+[[params.social]]
+    title = "linkedin"
+    url = ""
+
+
+
+
+
+###
+#theme = "seminyak"
+#
+#[params]
+#  color_palette = "yellow" # Required, adjusts color palette
+#  theme_color = "#fffdc3" # Optional, theme-color meta tag
+#  referrer_policy = "same-origin" # Optional, referrer policy meta tag
+# # background_image_url = "https://source.unsplash.com/ZJqO6ddBpic/" # Optional, background image
+#  background_image_url = "https://themes.gohugo.io//theme/landing-page-hugo/img/intro-bg.jpg"
+# google_fonts = "Oswald|Raleway" # Passed to Google for Web Font
+###
